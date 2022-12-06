@@ -839,7 +839,7 @@ iframe {
   display: inline-block;
   width: 27px;
   height: 17px;
-  background-image: url("/assets/images/icon/icon-top-notice.png");
+  background-image: url("/fta/assets/images/icon/icon-top-notice.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -849,7 +849,7 @@ iframe {
   display: inline-block;
   width: 14px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-top-notice-pause.png");
+  background-image: url("/fta/assets/images/icon/icon-top-notice-pause.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -859,7 +859,7 @@ iframe {
   display: inline-block;
   width: 14px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-top-notice-play.png");
+  background-image: url("/fta/assets/images/icon/icon-top-notice-play.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -869,7 +869,7 @@ iframe {
   display: inline-block;
   width: 17px;
   height: 17px;
-  background-image: url("/assets/images/icon/icon-top-notice-close.png");
+  background-image: url("/fta/assets/images/icon/icon-top-notice-close.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -879,7 +879,7 @@ iframe {
   display: inline-block;
   width: 22px;
   height: 22px;
-  background-image: url("/assets/images/icon/icon-login.png");
+  background-image: url("/fta/assets/images/icon/icon-login.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -889,7 +889,7 @@ iframe {
   display: inline-block;
   width: 22px;
   height: 22px;
-  background-image: url("/assets/images/icon/icon-logout.png");
+  background-image: url("/fta/assets/images/icon/icon-logout.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -899,7 +899,7 @@ iframe {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url("/assets/images/icon/icon-search.png");
+  background-image: url("/fta/assets/images/icon/icon-search.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -909,7 +909,7 @@ iframe {
   display: inline-block;
   width: 24px;
   height: 24px;
-  background-image: url("/assets/images/icon/icon-menu.png");
+  background-image: url("/fta/assets/images/icon/icon-menu.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -919,7 +919,7 @@ iframe {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background-image: url("/assets/images/icon/icon-sound.png");
+  background-image: url("/fta/assets/images/icon/icon-sound.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -929,7 +929,7 @@ iframe {
   display: inline-block;
   width: 18px;
   height: 17px;
-  background-image: url("/assets/images/icon/icon-file.png");
+  background-image: url("/fta/assets/images/icon/icon-file.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -939,7 +939,7 @@ iframe {
   display: inline-block;
   width: 18px;
   height: 17px;
-  background-image: url("/assets/images/icon/icon-lock.png");
+  background-image: url("/fta/assets/images/icon/icon-lock.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -949,7 +949,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/png.gif");
+  background-image: url("/fta/assets/images/icon/png.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -959,7 +959,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/pdf.gif");
+  background-image: url("/fta/assets/images/icon/pdf.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -969,7 +969,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/zip.gif");
+  background-image: url("/fta/assets/images/icon/zip.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -979,7 +979,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/pptx.gif");
+  background-image: url("/fta/assets/images/icon/pptx.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -989,7 +989,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/docx.gif");
+  background-image: url("/fta/assets/images/icon/docx.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -999,7 +999,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/xlsx.gif");
+  background-image: url("/fta/assets/images/icon/xlsx.gif");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -1009,7 +1009,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-outlink.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -1018,7 +1018,7 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-outlink-on.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink-on.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -1087,7 +1087,7 @@ iframe {
   display: inline-block;
   width: 40px;
   height: 40px;
-  background-image: url("/assets/images/icon/icon-refresh.png");
+  background-image: url("/fta/assets/images/icon/icon-refresh.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 15px 18px;
@@ -1097,7 +1097,7 @@ iframe {
   display: inline-block;
   width: 70px;
   height: 40px;
-  background-image: url("/assets/images/icon/icon-form-search.png");
+  background-image: url("/fta/assets/images/icon/icon-form-search.png");
   background-repeat: no-repeat;
   background-position: 13px center;
   background-size: 18px 18px;
@@ -1131,7 +1131,7 @@ iframe {
 }
 
 .select-box {
-  background-image: url("/assets/images/icon/icon-select-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-select-arrow.png");
   background-repeat: no-repeat;
   background-position: right 10px center;
   background-size: 12px 8px;
@@ -1139,7 +1139,7 @@ iframe {
   padding: 0 30px 0 10px;
 }
 .select-box:focus {
-  background-image: url("/assets/images/icon/icon-select-arrow-up.png");
+  background-image: url("/fta/assets/images/icon/icon-select-arrow-up.png");
 }
 
 .textarea {
@@ -1163,13 +1163,13 @@ iframe {
   display: inline-block;
   width: 18px;
   height: 18px;
-  background-image: url("/assets/images/icon/icon-checkbox-off.png");
+  background-image: url("/fta/assets/images/icon/icon-checkbox-off.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .checkbox .input-checkbox:checked + .icon-checkbox {
-  background-image: url("/assets/images/icon/icon-checkbox-on.png");
+  background-image: url("/fta/assets/images/icon/icon-checkbox-on.png");
 }
 .checkbox span {
   margin-left: 8px;
@@ -1188,13 +1188,13 @@ iframe {
   display: inline-block;
   width: 16px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-radio-off.png");
+  background-image: url("/fta/assets/images/icon/icon-radio-off.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .radio .input-radio:checked + .icon-radio {
-  background-image: url("/assets/images/icon/icon-radio-on.png");
+  background-image: url("/fta/assets/images/icon/icon-radio-on.png");
 }
 .radio > span {
   margin-left: 8px;
@@ -1208,7 +1208,7 @@ iframe {
   flex: 1;
 }
 .datepicker .input-text {
-  background-image: url("/assets/images/icon/icon-calendar.png");
+  background-image: url("/fta/assets/images/icon/icon-calendar.png");
   background-repeat: no-repeat;
   background-position: right 10px center;
   background-size: 24px 24px;
@@ -1221,7 +1221,7 @@ iframe {
   flex: 1;
 }
 .timepicker .input-text {
-  background-image: url("/assets/images/icon/icon-time.png");
+  background-image: url("/fta/assets/images/icon/icon-time.png");
   background-repeat: no-repeat;
   background-position: right 10px center;
   background-size: 24px 24px;
@@ -1254,7 +1254,7 @@ iframe {
   border-radius: 4px;
   background-color: #f9f9f9;
   color: #333333;
-  background-image: url("/assets/images/icon/icon-file.png");
+  background-image: url("/fta/assets/images/icon/icon-file.png");
   background-repeat: no-repeat;
   background-position: 20px 11px;
   background-size: 18px 17px;
@@ -1342,7 +1342,7 @@ iframe {
   align-items: flex-start;
 }
 .title-area .breadcrumb .breadcrumb-item {
-  background-image: url("/assets/images/icon/icon-breadcrumb-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-breadcrumb-arrow.png");
   background-repeat: no-repeat;
   background-position: left 2px;
   background-size: 7px 12px;
@@ -1355,7 +1355,7 @@ iframe {
   display: inline-block;
   width: 15px;
   height: 15px;
-  background-image: url("/assets/images/icon/icon-home.png");
+  background-image: url("/fta/assets/images/icon/icon-home.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -1801,40 +1801,40 @@ iframe {
   color: #888888;
 }
 .pagination a.first {
-  background-image: url("/assets/images/icon/icon-pagination-first.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-first.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 15px 14px;
 }
 .pagination a.first.disabled {
-  background-image: url("/assets/images/icon/icon-pagination-first-off.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-first-off.png");
 }
 .pagination a.prev {
-  background-image: url("/assets/images/icon/icon-pagination-prev.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-prev.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px 14px;
 }
 .pagination a.prev.disabled {
-  background-image: url("/assets/images/icon/icon-pagination-prev-off.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-prev-off.png");
 }
 .pagination a.next {
-  background-image: url("/assets/images/icon/icon-pagination-next.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-next.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 10px 14px;
 }
 .pagination a.next.disabled {
-  background-image: url("/assets/images/icon/icon-pagination-next-off.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-next-off.png");
 }
 .pagination a.last {
-  background-image: url("/assets/images/icon/icon-pagination-last.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-last.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 15px 14px;
 }
 .pagination a.last.disabled {
-  background-image: url("/assets/images/icon/icon-pagination-last-off.png");
+  background-image: url("/fta/assets/images/icon/icon-pagination-last-off.png");
 }
 .pagination a.active, .pagination a:hover {
   color: black;
@@ -1940,7 +1940,7 @@ iframe {
   color: #333333;
 }
 .detail-area .detail-body .answer-box {
-  background-image: url("/assets/images/icon/icon-answer-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-answer-arrow.png");
   background-repeat: no-repeat;
   background-position: left 30px top 42px;
   background-size: 26px 26px;
@@ -1978,13 +1978,13 @@ iframe {
   color: #333333;
 }
 .detail-area .detail-navigation dl dt.prev {
-  background-image: url("/assets/images/icon/icon-detail-prev.png");
+  background-image: url("/fta/assets/images/icon/icon-detail-prev.png");
   background-repeat: no-repeat;
   background-position: right 25px center;
   background-size: 12px 9px;
 }
 .detail-area .detail-navigation dl dt.next {
-  background-image: url("/assets/images/icon/icon-detail-next.png");
+  background-image: url("/fta/assets/images/icon/icon-detail-next.png");
   background-repeat: no-repeat;
   background-position: right 25px center;
   background-size: 12px 9px;
@@ -2322,13 +2322,13 @@ iframe {
   display: inline-block;
   width: 30px;
   height: 30px;
-  background-image: url("/assets/images/icon/icon-agree-checkbox-off.png");
+  background-image: url("/fta/assets/images/icon/icon-agree-checkbox-off.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .agree-area.type2 .checkbox .input-checkbox:checked + .icon-checkbox {
-  background-image: url("/assets/images/icon/icon-agree-checkbox-on.png");
+  background-image: url("/fta/assets/images/icon/icon-agree-checkbox-on.png");
 }
 .agree-area.type2 .checkbox .input-checkbox:checked ~ span {
   color: #001fb7;
@@ -2384,7 +2384,7 @@ iframe {
   display: inline-block;
   width: 18px;
   height: 28px;
-  background-image: url("/assets/images/icon/icon-step-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-step-arrow.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -2419,7 +2419,7 @@ iframe {
   display: inline-block;
   width: 7px;
   height: 25px;
-  background-image: url("/assets/images/icon/icon-stage-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-stage-arrow.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -2525,7 +2525,7 @@ iframe {
   margin-bottom: 15px;
 }
 .popover-area .popover-body a {
-  background-image: url("/assets/images/icon/icon-view.png");
+  background-image: url("/fta/assets/images/icon/icon-view.png");
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 17px 14px;
@@ -2552,7 +2552,7 @@ iframe {
   display: inline-block;
   width: 9px;
   height: 9px;
-  background-image: url("/assets/images/icon/icon-popover-close.png");
+  background-image: url("/fta/assets/images/icon/icon-popover-close.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -2758,7 +2758,7 @@ iframe {
   border-bottom: 1px solid #e1e1e1;
 }
 .accordion-header button {
-  background-image: url("/assets/images/icon/icon-accordion-down.png");
+  background-image: url("/fta/assets/images/icon/icon-accordion-down.png");
   background-repeat: no-repeat;
   background-position: right 20px center;
   background-size: 23px 13px;
@@ -2767,7 +2767,7 @@ iframe {
   text-align: left;
 }
 .accordion-header button.active {
-  background-image: url("/assets/images/icon/icon-accordion-up.png");
+  background-image: url("/fta/assets/images/icon/icon-accordion-up.png");
 }
 .accordion-header .sub {
   font-size: 15px;
@@ -2856,7 +2856,7 @@ iframe {
   display: inline-block;
   width: 82px;
   height: 82px;
-  background-image: url("/assets/images/icon/icon-video-play.png");
+  background-image: url("/fta/assets/images/icon/icon-video-play.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -2943,28 +2943,28 @@ iframe {
   color: #333333;
 }
 .operating-agency .list li .text.map {
-  background-image: url("/assets/images/icon/icon-circle-map.png");
+  background-image: url("/fta/assets/images/icon/icon-circle-map.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: 24px 24px;
   margin-bottom: 12px;
 }
 .operating-agency .list li .text.call {
-  background-image: url("/assets/images/icon/icon-circle-phone.png");
+  background-image: url("/fta/assets/images/icon/icon-circle-phone.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: 24px 24px;
   margin-bottom: 12px;
 }
 .operating-agency .list li .text.mail {
-  background-image: url("/assets/images/icon/icon-circle-mail.png");
+  background-image: url("/fta/assets/images/icon/icon-circle-mail.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: 24px 24px;
   margin-bottom: 12px;
 }
 .operating-agency .list li .text.homepage {
-  background-image: url("/assets/images/icon/icon-circle-home.png");
+  background-image: url("/fta/assets/images/icon/icon-circle-home.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: 24px 24px;
@@ -3717,7 +3717,7 @@ iframe {
   }
   /* accordion */
   .accordion-header button {
-    background-image: url("/assets/images/icon/icon-accordion-down.png");
+    background-image: url("/fta/assets/images/icon/icon-accordion-down.png");
     background-repeat: no-repeat;
     background-position: right center;
     background-size: 16px 10px;
@@ -3877,7 +3877,7 @@ iframe {
   bottom: 10px;
   width: 30px;
   height: 29px;
-  background: url("/assets/images/icon/icon_navsearch.png") no-repeat center/30px 29px;
+  background: url("/fta/assets/images/icon/icon_navsearch.png") no-repeat center/30px 29px;
 }
 
 .nav_search .nav_searchlist {
@@ -3928,14 +3928,14 @@ iframe {
   display: inline-block;
   width: 50px;
   height: 29px;
-  background-image: url("/assets/images/icon/icon-autocomplete-off.png");
+  background-image: url("/fta/assets/images/icon/icon-autocomplete-off.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 
 .nav_search .btn-autocomplete.active {
-  background-image: url("/assets/images/icon/icon-autocomplete-on.png");
+  background-image: url("/fta/assets/images/icon/icon-autocomplete-on.png");
 }
 
 .nav_search .nav_search_x {
@@ -3947,7 +3947,7 @@ iframe {
   z-index: 100;
   width: 24px;
   height: 24px;
-  background: url("/assets/images/icon/icon-search-close.png") no-repeat center/contain;
+  background: url("/fta/assets/images/icon/icon-search-close.png") no-repeat center/contain;
 }
 
 /* 반응형 ======================================================================== */
@@ -4327,7 +4327,7 @@ header .btn-area .btn-menu {
   line-height: 1;
 }
 .main-visual .swiper-inner .text-box dl dd span {
-  background-image: url("/assets/images/icon/icon-main-visual-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-main-visual-arrow.png");
   background-repeat: no-repeat;
   background-position: left center;
   background-size: 17px 7px;
@@ -4368,7 +4368,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 12px;
   height: 16px;
-  background-image: url("/assets/images/icon/icon-main-visual-prev.png");
+  background-image: url("/fta/assets/images/icon/icon-main-visual-prev.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4378,7 +4378,7 @@ header .btn-area .btn-menu {
 }
 .main-visual .swiper-bg-control .swiper-btn-next {
   right: 10px;
-  background-image: url("/assets/images/icon/icon-main-visual-next.png");
+  background-image: url("/fta/assets/images/icon/icon-main-visual-next.png");
 }
 .main-visual .swiper-bg-control .swiper-pagination {
   left: -10px;
@@ -4401,14 +4401,14 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 14px;
   height: 15px;
-  background-image: url("/assets/images/icon/icon-main-visual-pause.png");
+  background-image: url("/fta/assets/images/icon/icon-main-visual-pause.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
   right: 32px;
 }
 .main-visual .swiper-bg-control .btn-control.icon-play {
-  background-image: url("/assets/images/icon/icon-main-visual-play.png");
+  background-image: url("/fta/assets/images/icon/icon-main-visual-play.png");
 }
 .main-visual .swiper-bg-control .btn-control span {
   font-size: 24px;
@@ -4446,7 +4446,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 41px;
   height: 39px;
-  background-image: url("/assets/images/icon/icon-quick-menu1.png");
+  background-image: url("/fta/assets/images/icon/icon-quick-menu1.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4455,7 +4455,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 30px;
   height: 37px;
-  background-image: url("/assets/images/icon/icon-quick-menu2.png");
+  background-image: url("/fta/assets/images/icon/icon-quick-menu2.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4464,7 +4464,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 39px;
   height: 36px;
-  background-image: url("/assets/images/icon/icon-quick-menu3.png");
+  background-image: url("/fta/assets/images/icon/icon-quick-menu3.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4473,7 +4473,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 34px;
   height: 34px;
-  background-image: url("/assets/images/icon/icon-quick-menu4.png");
+  background-image: url("/fta/assets/images/icon/icon-quick-menu4.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4578,7 +4578,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 34px;
   height: 22px;
-  background-image: url("/assets/images/icon/icon-main-information-more.png");
+  background-image: url("/fta/assets/images/icon/icon-main-information-more.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4642,49 +4642,49 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 35px;
   height: 42px;
-  background-image: url("/assets/images/icon/icon-info-fta1.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta1.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .main-information .information .list li:nth-child(1) a:hover::before {
-  background-image: url("/assets/images/icon/icon-info-fta1-hover.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta1-hover.png");
 }
 .main-information .information .list li:nth-child(2) a::before {
   display: inline-block;
   width: 33px;
   height: 42px;
-  background-image: url("/assets/images/icon/icon-info-fta2.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta2.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .main-information .information .list li:nth-child(2) a:hover::before {
-  background-image: url("/assets/images/icon/icon-info-fta2-hover.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta2-hover.png");
 }
 .main-information .information .list li:nth-child(3) a::before {
   display: inline-block;
   width: 43px;
   height: 35px;
-  background-image: url("/assets/images/icon/icon-info-fta3.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta3.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .main-information .information .list li:nth-child(3) a:hover::before {
-  background-image: url("/assets/images/icon/icon-info-fta3-hover.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta3-hover.png");
 }
 .main-information .information .list li:nth-child(4) a::before {
   display: inline-block;
   width: 41px;
   height: 41px;
-  background-image: url("/assets/images/icon/icon-info-fta4.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta4.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
 }
 .main-information .information .list li:nth-child(4) a:hover::before {
-  background-image: url("/assets/images/icon/icon-info-fta4-hover.png");
+  background-image: url("/fta/assets/images/icon/icon-info-fta4-hover.png");
 }
 .main-information .use-cases {
   width: 342px;
@@ -4760,21 +4760,21 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 13px;
   height: 14px;
-  background-image: url("/assets/images/icon/icon-news-letter-pause.png");
+  background-image: url("/fta/assets/images/icon/icon-news-letter-pause.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
   margin-right: 5px;
 }
 .main-information .news-letter .swiper-control .btn-control.icon-play {
-  background-image: url("/assets/images/icon/icon-news-letter-play.png");
+  background-image: url("/fta/assets/images/icon/icon-news-letter-play.png");
 }
 .main-information .news-letter .swiper-control .swiper-btn-prev,
 .main-information .news-letter .swiper-control .swiper-btn-next {
   display: inline-block;
   width: 30px;
   height: 24px;
-  background-image: url("/assets/images/icon/icon-news-letter-prev.png");
+  background-image: url("/fta/assets/images/icon/icon-news-letter-prev.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 12px 16px;
@@ -4782,7 +4782,7 @@ header .btn-area .btn-menu {
 }
 .main-information .news-letter .swiper-control .swiper-btn-next {
   order: 1;
-  background-image: url("/assets/images/icon/icon-news-letter-next.png");
+  background-image: url("/fta/assets/images/icon/icon-news-letter-next.png");
 }
 .main-information .news-letter .swiper-control .swiper-button-disabled {
   opacity: 0.5;
@@ -4800,7 +4800,7 @@ header .btn-area .btn-menu {
 
 /* main-consulting */
 .main-consulting {
-  background-image: url("/assets/images/main/bg-consulting.png");
+  background-image: url("/fta/assets/images/main/bg-consulting.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -4851,7 +4851,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 75px;
   height: 58px;
-  background-image: url("/assets/images/icon/icon-consulting1.png");
+  background-image: url("/fta/assets/images/icon/icon-consulting1.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4867,7 +4867,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 83px;
   height: 52px;
-  background-image: url("/assets/images/icon/icon-consulting2.png");
+  background-image: url("/fta/assets/images/icon/icon-consulting2.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4883,7 +4883,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 47px;
   height: 59px;
-  background-image: url("/assets/images/icon/icon-consulting3.png");
+  background-image: url("/fta/assets/images/icon/icon-consulting3.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -4952,7 +4952,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 36px;
   height: 33px;
-  background-image: url("/assets/images/icon/icon-main-consulting.png");
+  background-image: url("/fta/assets/images/icon/icon-main-consulting.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -5066,7 +5066,7 @@ header .btn-area .btn-menu {
   display: inline-block;
   width: 34px;
   height: 22px;
-  background-image: url("/assets/images/icon/icon-main-video-more.png");
+  background-image: url("/fta/assets/images/icon/icon-main-video-more.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -5074,7 +5074,7 @@ header .btn-area .btn-menu {
 
 /* main-publication */
 .main-publication {
-  background-image: url("/assets/images/main/bg-main-publication.png");
+  background-image: url("/fta/assets/images/main/bg-main-publication.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -5206,19 +5206,19 @@ header .btn-area .btn-menu {
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
   }
   .main-consulting .card-box:hover:nth-child(1) {
-    background-image: url("/assets/images/main/main-consulting1.png");
+    background-image: url("/fta/assets/images/main/main-consulting1.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
   }
   .main-consulting .card-box:hover:nth-child(2) {
-    background-image: url("/assets/images/main/main-consulting2.png");
+    background-image: url("/fta/assets/images/main/main-consulting2.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
   }
   .main-consulting .card-box:hover:nth-child(3) {
-    background-image: url("/assets/images/main/main-consulting3.png");
+    background-image: url("/fta/assets/images/main/main-consulting3.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5236,7 +5236,7 @@ header .btn-area .btn-menu {
     color: white;
   }
   .main-consulting .card-box:hover .card-box-footer button {
-    background-image: url("/assets/images/icon/icon-main-consulting-arrow.png");
+    background-image: url("/fta/assets/images/icon/icon-main-consulting-arrow.png");
     background-repeat: no-repeat;
     background-position: 90px 20px;
     background-size: 28px 11px;
@@ -5312,7 +5312,7 @@ header .btn-area .btn-menu {
     display: inline-block;
     width: 17px;
     height: 26px;
-    background-image: url("/assets/images/icon/icon-main-visual-inner-prev.png");
+    background-image: url("/fta/assets/images/icon/icon-main-visual-inner-prev.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5322,7 +5322,7 @@ header .btn-area .btn-menu {
   }
   .main-visual .swiper-inner-control .swiper-btn-next {
     right: -35px;
-    background-image: url("/assets/images/icon/icon-main-visual-inner-next.png");
+    background-image: url("/fta/assets/images/icon/icon-main-visual-inner-next.png");
   }
   .main-visual .quick-menu li a {
     font-size: 15px;
@@ -5583,7 +5583,7 @@ header .btn-area .btn-menu {
   }
   /* main-publication */
   .main-publication {
-    background-image: url("/assets/images/main/bg-main-publication.png");
+    background-image: url("/fta/assets/images/main/bg-main-publication.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -5756,7 +5756,7 @@ header .btn-area .btn-menu {
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url("/assets/images/mo/icon/icon-quick-menu1.png");
+    background-image: url("/fta/assets/images/mo/icon/icon-quick-menu1.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5765,7 +5765,7 @@ header .btn-area .btn-menu {
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url("/assets/images/mo/icon/icon-quick-menu2.png");
+    background-image: url("/fta/assets/images/mo/icon/icon-quick-menu2.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5774,7 +5774,7 @@ header .btn-area .btn-menu {
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url("/assets/images/mo/icon/icon-quick-menu3.png");
+    background-image: url("/fta/assets/images/mo/icon/icon-quick-menu3.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5783,7 +5783,7 @@ header .btn-area .btn-menu {
     display: inline-block;
     width: 32px;
     height: 32px;
-    background-image: url("/assets/images/mo/icon/icon-quick-menu4.png");
+    background-image: url("/fta/assets/images/mo/icon/icon-quick-menu4.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
@@ -5836,7 +5836,7 @@ header .btn-area .btn-menu {
   /* main-publication */
   .main-publication {
     height: auto;
-    background-image: url("/assets/images/mo/main/bg-main-publication.png");
+    background-image: url("/fta/assets/images/mo/main/bg-main-publication.png");
     background-size: contain;
     background-position-x: 50px;
   }
@@ -5898,11 +5898,11 @@ header .btn-area .btn-menu {
   letter-spacing: -1.02px;
   color: #fff;
   padding-right: 35px;
-  background: url("/assets/images/icon/icon-main-use-rate-down.png") no-repeat right center/19px 13px;
+  background: url("/fta/assets/images/icon/icon-main-use-rate-down.png") no-repeat right center/19px 13px;
 }
 
 .main-use-rate-box.active button {
-  background-image: url("/assets/images/icon/icon-main-use-rate-up.png");
+  background-image: url("/fta/assets/images/icon/icon-main-use-rate-up.png");
 }
 
 /* pc */
@@ -5911,7 +5911,7 @@ header .btn-area .btn-menu {
   height: 736px;
   padding: 65px 0 56px;
   width: 100%;
-  background: url("/assets/images/main/main_map_bg.jpeg") no-repeat center/cover;
+  background: url("/fta/assets/images/main/main_map_bg.jpeg") no-repeat center/cover;
   color: #fff;
   box-sizing: border-box;
 }
@@ -5947,7 +5947,7 @@ header .btn-area .btn-menu {
 }
 
 .map_guide .map_container {
-  background: url("/assets/images/main/img_map.png") no-repeat center top 0/1168px 527px;
+  background: url("/fta/assets/images/main/img_map.png") no-repeat center top 0/1168px 527px;
 }
 
 .map_guide .graph_box,
@@ -6098,7 +6098,7 @@ header .btn-area .btn-menu {
   bottom: 0;
   padding: 40px 0 32px;
   width: 437px;
-  background: url("/assets/images/main/img_bg.png") no-repeat right 0 center/368px;
+  background: url("/fta/assets/images/main/img_bg.png") no-repeat right 0 center/368px;
   font-size: 40px;
 }
 
@@ -6362,7 +6362,7 @@ footer .service .call dd::before {
   display: inline-block;
   width: 27px;
   height: 27px;
-  background-image: url("/assets/images/icon/icon-footer-call.png");
+  background-image: url("/fta/assets/images/icon/icon-footer-call.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -6394,7 +6394,7 @@ footer .family-site .family-list button {
   height: 40px;
   border-radius: 20px;
   line-height: 40px;
-  background: #4a4c4f url("/assets/images/icon/icon-family-arrow-down.png") no-repeat right 16px center/14px 10px;
+  background: #4a4c4f url("/fta/assets/images/icon/icon-family-arrow-down.png") no-repeat right 16px center/14px 10px;
   color: #fff;
   font-size: 15px;
   letter-spacing: -0.9px;
@@ -6402,7 +6402,7 @@ footer .family-site .family-list button {
 }
 footer .family-site .family-list button.active {
   border-radius: 0 0 20px 20px;
-  background-image: url("/assets/images/icon/icon-family-arrow-up.png");
+  background-image: url("/fta/assets/images/icon/icon-family-arrow-up.png");
 }
 footer .family-site .family-list ul {
   display: none;
@@ -6562,42 +6562,42 @@ footer .family-site .family-list:nth-child(2) ul {
 }
 
 .support .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual1.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual1.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
 }
 
 .info .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual2.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual2.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
 }
 
 .usage .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual3.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual3.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
 }
 
 .intro .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual4.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual4.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
 }
 
 .mypage .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual5.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual5.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
 }
 
 .search .sub-visual {
-  background-image: url("/assets/images/sub/bg-sub-visual6.png");
+  background-image: url("/fta/assets/images/sub/bg-sub-visual6.png");
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -6645,13 +6645,13 @@ footer .family-site .family-list:nth-child(2) ul {
   color: #333333;
 }
 .sub-nav .depth1 > li > a.arrow {
-  background-image: url("/assets/images/icon/icon-sub-nav-down.png");
+  background-image: url("/fta/assets/images/icon/icon-sub-nav-down.png");
   background-repeat: no-repeat;
   background-position: right 15px center;
   background-size: 16px 10px;
 }
 .sub-nav .depth1 > li > a.active.arrow {
-  background-image: url("/assets/images/icon/icon-sub-nav-up.png");
+  background-image: url("/fta/assets/images/icon/icon-sub-nav-up.png");
 }
 .sub-nav .depth1 > li > a.active, .sub-nav .depth1 > li > a:hover {
   color: #001fb7;
@@ -6673,7 +6673,7 @@ footer .family-site .family-list:nth-child(2) ul {
   color: #666666;
 }
 .sub-nav .depth2 li a.active {
-  background-image: url("/assets/images/icon/icon-sub-nav-active.png");
+  background-image: url("/fta/assets/images/icon/icon-sub-nav-active.png");
   background-repeat: no-repeat;
   background-position: 10px center;
   background-size: 18px 5px;
@@ -6724,7 +6724,7 @@ footer .family-site .family-list:nth-child(2) ul {
   z-index: 100;
   width: 30px;
   height: 29px;
-  background: url("/assets/images/icon/icon_navsearch.png") no-repeat center/30px 29px;
+  background: url("/fta/assets/images/icon/icon_navsearch.png") no-repeat center/30px 29px;
 }
 .search .relation-word {
   display: flex;
@@ -6982,7 +6982,7 @@ footer .family-site .family-list:nth-child(2) ul {
   margin-bottom: 10px;
 }
 .usage-step-box .step-box-footer dl dt .link {
-  background-image: url("/assets/images/icon/icon-outlink.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink.png");
   background-repeat: no-repeat;
   background-position: right top 2px;
   background-size: 16px 16px;
@@ -6995,7 +6995,7 @@ footer .family-site .family-list:nth-child(2) ul {
 }
 .usage-step-box .step-box-footer dl dt .link:hover {
   color: #001fb7;
-  background-image: url("/assets/images/icon/icon-outlink-on.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink-on.png");
 }
 .usage-step-box .step-box-footer dl dd {
   font-size: 14px;
@@ -7059,13 +7059,13 @@ footer .family-site .family-list:nth-child(2) ul {
   color: #1e1e1e;
 }
 .usage-process-nav .depth1 > li > a.icon {
-  background-image: url("/assets/images/icon/icon-plus.png");
+  background-image: url("/fta/assets/images/icon/icon-plus.png");
   background-repeat: no-repeat;
   background-position: right 20px center;
   background-size: 20px 20px;
 }
 .usage-process-nav .depth1 > li > a.active.icon {
-  background-image: url("/assets/images/icon/icon-minus.png");
+  background-image: url("/fta/assets/images/icon/icon-minus.png");
 }
 .usage-process-nav .depth1 > li > a.active, .usage-process-nav .depth1 > li > a:hover {
   color: #001fb7;
@@ -7245,16 +7245,16 @@ footer .family-site .family-list:nth-child(2) ul {
   width: 33.33%;
 }
 .consulting-visual li .consulting-visual-box {
-  background-image: url("/assets/images/sub/consulting-visual1.png");
+  background-image: url("/fta/assets/images/sub/consulting-visual1.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
 }
 .consulting-visual li:nth-child(2) .consulting-visual-box {
-  background-image: url("/assets/images/sub/consulting-visual2.png");
+  background-image: url("/fta/assets/images/sub/consulting-visual2.png");
 }
 .consulting-visual li:nth-child(3) .consulting-visual-box {
-  background-image: url("/assets/images/sub/consulting-visual3.png");
+  background-image: url("/fta/assets/images/sub/consulting-visual3.png");
 }
 .consulting-visual li:last-child .consulting-visual-content {
   border-right: 0;
@@ -7281,7 +7281,7 @@ footer .family-site .family-list:nth-child(2) ul {
   color: #efefef;
 }
 .consulting-visual-box .link {
-  background-image: url("/assets/images/icon/icon-consulting-visual-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-consulting-visual-arrow.png");
   background-repeat: no-repeat;
   background-position: right center;
   background-size: 8px 12px;
@@ -7336,7 +7336,7 @@ footer .family-site .family-list:nth-child(2) ul {
   margin-top: 15px;
 }
 .consulting-visual-content dl dd .btn-group .btn-line {
-  background-image: url("/assets/images/icon/icon-consulting-visual-arrow2.png");
+  background-image: url("/fta/assets/images/icon/icon-consulting-visual-arrow2.png");
   background-repeat: no-repeat;
   background-position: right 10px center;
   background-size: 8px 13px;
@@ -7366,7 +7366,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 21px;
   height: 19px;
-  background-image: url("/assets/images/icon/icon-quotes-start.png");
+  background-image: url("/fta/assets/images/icon/icon-quotes-start.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -7382,7 +7382,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 21px;
   height: 19px;
-  background-image: url("/assets/images/icon/icon-quotes-end.png");
+  background-image: url("/fta/assets/images/icon/icon-quotes-end.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -7564,7 +7564,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 14px;
   height: 24px;
-  background-image: url("/assets/images/icon/icon-step-box-arrow.png");
+  background-image: url("/fta/assets/images/icon/icon-step-box-arrow.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -7604,7 +7604,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 525px;
   height: auto;
-  background-image: url("/assets/images/icon/icon-main-business1.png");
+  background-image: url("/fta/assets/images/icon/icon-main-business1.png");
   background-repeat: no-repeat;
   background-position: left 20px top 40px;
   background-size: 103px 79px;
@@ -7613,7 +7613,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 525px;
   height: auto;
-  background-image: url("/assets/images/icon/icon-main-business2.png");
+  background-image: url("/fta/assets/images/icon/icon-main-business2.png");
   background-repeat: no-repeat;
   background-position: left 25px top 40px;
   background-size: 84px 70px;
@@ -7622,7 +7622,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 525px;
   height: auto;
-  background-image: url("/assets/images/icon/icon-main-business3.png");
+  background-image: url("/fta/assets/images/icon/icon-main-business3.png");
   background-repeat: no-repeat;
   background-position: left 40px top 40px;
   background-size: 74px 64px;
@@ -7631,7 +7631,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 525px;
   height: auto;
-  background-image: url("/assets/images/icon/icon-main-business4.png");
+  background-image: url("/fta/assets/images/icon/icon-main-business4.png");
   background-repeat: no-repeat;
   background-position: left 20px top 40px;
   background-size: 95px 63px;
@@ -7650,7 +7650,7 @@ footer .family-site .family-list:nth-child(2) ul {
   color: #333333;
 }
 .intro-introduct .call-box {
-  background-image: url("/assets/images/icon/icon-fta-total-center-call.png");
+  background-image: url("/fta/assets/images/icon/icon-fta-total-center-call.png");
   background-repeat: no-repeat;
   background-position: left 23px center;
   background-size: 22px 22px;
@@ -7731,7 +7731,7 @@ footer .family-site .family-list:nth-child(2) ul {
   margin-bottom: 25px;
 }
 .intro-introduct .address-list > li dl dt .link {
-  background-image: url("/assets/images/icon/icon-outlink.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink.png");
   background-repeat: no-repeat;
   background-position: right top 2px;
   background-size: 16px 16px;
@@ -7744,7 +7744,7 @@ footer .family-site .family-list:nth-child(2) ul {
 }
 .intro-introduct .address-list > li dl dt .link:hover {
   color: #001fb7;
-  background-image: url("/assets/images/icon/icon-outlink-on.png");
+  background-image: url("/fta/assets/images/icon/icon-outlink-on.png");
 }
 .intro-introduct .address-list > li dl .list li {
   margin-bottom: 10px;
@@ -7832,7 +7832,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: auto;
   height: auto;
-  background-image: url("/assets/images/icon/icon-link-plus.png");
+  background-image: url("/fta/assets/images/icon/icon-link-plus.png");
   background-repeat: no-repeat;
   background-position: center bottom 20px;
   background-size: 18px 18px;
@@ -8059,14 +8059,14 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 40px;
     height: 40px;
-    background-image: url("/assets/images/icon/icon-usage-process-open.png");
+    background-image: url("/fta/assets/images/icon/icon-usage-process-open.png");
     background-repeat: no-repeat;
     background-position: 0 0;
     background-size: contain;
     flex: none;
   }
   .usage-process-control .btn-usage-process-menu.close {
-    background-image: url("/assets/images/icon/icon-usage-process-close.png");
+    background-image: url("/fta/assets/images/icon/icon-usage-process-close.png");
   }
   .usage-process-control .fta-call {
     display: flex;
@@ -8352,7 +8352,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 100%;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business1.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business1.png");
     background-repeat: no-repeat;
     background-position: left 20px top 40px;
     background-size: 103px 79px;
@@ -8361,7 +8361,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 100%;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business2.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business2.png");
     background-repeat: no-repeat;
     background-position: left 25px top 40px;
     background-size: 84px 70px;
@@ -8370,7 +8370,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 100%;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business3.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business3.png");
     background-repeat: no-repeat;
     background-position: left 40px top 40px;
     background-size: 74px 64px;
@@ -8379,7 +8379,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 100%;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business4.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business4.png");
     background-repeat: no-repeat;
     background-position: left 20px top 40px;
     background-size: 95px 63px;
@@ -8434,22 +8434,22 @@ footer .family-site .family-list:nth-child(2) ul {
     letter-spacing: -0.65px;
   }
   .support .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual1.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual1.png");
   }
   .info .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual2.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual2.png");
   }
   .usage .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual3.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual3.png");
   }
   .intro .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual4.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual4.png");
   }
   .mypage .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual5.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual5.png");
   }
   .search .sub-visual {
-    background-image: url("/assets/images/mo/sub/bg-sub-visual6.png");
+    background-image: url("/fta/assets/images/mo/sub/bg-sub-visual6.png");
   }
   .sub-container .container {
     margin: 30px 0 70px;
@@ -8581,13 +8581,13 @@ footer .family-site .family-list:nth-child(2) ul {
     display: block;
   }
   .consulting-visual li:nth-child(1) .consulting-visual-box {
-    background-image: url("/assets/images/mo/sub/consulting-visual1.png");
+    background-image: url("/fta/assets/images/mo/sub/consulting-visual1.png");
   }
   .consulting-visual li:nth-child(2) .consulting-visual-box {
-    background-image: url("/assets/images/mo/sub/consulting-visual2.png");
+    background-image: url("/fta/assets/images/mo/sub/consulting-visual2.png");
   }
   .consulting-visual li:nth-child(3) .consulting-visual-box {
-    background-image: url("/assets/images/mo/sub/consulting-visual3.png");
+    background-image: url("/fta/assets/images/mo/sub/consulting-visual3.png");
   }
   .consulting-visual-box {
     height: 293px;
@@ -8653,7 +8653,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 525px;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business1.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business1.png");
     background-repeat: no-repeat;
     background-position: center top 20px;
     background-size: 103px 79px;
@@ -8662,7 +8662,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 525px;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business2.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business2.png");
     background-repeat: no-repeat;
     background-position: center top 20px;
     background-size: 84px 70px;
@@ -8671,7 +8671,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 525px;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business3.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business3.png");
     background-repeat: no-repeat;
     background-position: center top 20px;
     background-size: 74px 64px;
@@ -8680,7 +8680,7 @@ footer .family-site .family-list:nth-child(2) ul {
     display: inline-block;
     width: 525px;
     height: auto;
-    background-image: url("/assets/images/icon/icon-main-business4.png");
+    background-image: url("/fta/assets/images/icon/icon-main-business4.png");
     background-repeat: no-repeat;
     background-position: center top 20px;
     background-size: 95px 63px;
@@ -8809,7 +8809,7 @@ footer .family-site .family-list:nth-child(2) ul {
     width: 22px;
     height: 22px;
     margin-top: -11px;
-    background: url("/assets/images/mo/icon/icon_site_list_arr.png") no-repeat center;
+    background: url("/fta/assets/images/mo/icon/icon_site_list_arr.png") no-repeat center;
     background-size: contain;
     content: "";
   }
@@ -8990,7 +8990,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 26px;
   height: 26px;
-  background-image: url("/assets/images/icon/icon-video-close.png");
+  background-image: url("/fta/assets/images/icon/icon-video-close.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -9014,7 +9014,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 150px;
   height: 150px;
-  background-image: url("/assets/images/icon/icon-answer-o.png");
+  background-image: url("/fta/assets/images/icon/icon-answer-o.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;
@@ -9023,7 +9023,7 @@ footer .family-site .family-list:nth-child(2) ul {
   display: inline-block;
   width: 150px;
   height: 150px;
-  background-image: url("/assets/images/icon/icon-answer-x.png");
+  background-image: url("/fta/assets/images/icon/icon-answer-x.png");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: contain;

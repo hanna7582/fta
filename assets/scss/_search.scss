@@ -27,7 +27,7 @@
     vertical-align: middle;
     outline: none;
 }
-.nav_search .navinp_box button { position: absolute; right: 0; bottom: 10px; width: 30px; height: 29px; background: url('/assets/images/icon/icon_navsearch.png') no-repeat center / 30px 29px; }
+.nav_search .navinp_box button { position: absolute; right: 0; bottom: 10px; width: 30px; height: 29px; background: url('/fta/assets/images/icon/icon_navsearch.png') no-repeat center / 30px 29px; }
 .nav_search .nav_searchlist { display: none; margin-bottom: 20px; padding: 20px 0; border-bottom: 1px solid #e1e1e1; max-height: 257px; box-sizing: border-box; }
 .nav_search .nav_searchlist li a { 
     display: block; 
@@ -55,14 +55,14 @@
     color: #333;
 }
 .nav_search .btn-autocomplete {
-    @include bgWH($url: '/assets/images/icon/icon-autocomplete-off.png', $w: 50px, $h: 29px);
+    @include bgWH($url: '/fta/assets/images/icon/icon-autocomplete-off.png', $w: 50px, $h: 29px);
 }
 .nav_search .btn-autocomplete.active { 
-    background-image: url('/assets/images/icon/icon-autocomplete-on.png');
+    background-image: url('/fta/assets/images/icon/icon-autocomplete-on.png');
  }
 .nav_search .nav_search_x { 
     @include position($top:0, $right:0);
-    width: 24px; height: 24px; background: url('/assets/images/icon/icon-search-close.png') no-repeat center / contain; 
+    width: 24px; height: 24px; background: url('/fta/assets/images/icon/icon-search-close.png') no-repeat center / contain; 
 }
 
 /* 반응형 ======================================================================== */

@@ -139,7 +139,7 @@
       }
     }
     .btn-close {
-      @include bgWH($url: '/assets/images/icon/icon-video-close.png', $w: 26px, $h: 26px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-video-close.png', $w: 26px, $h: 26px);
       @include position($right: 0, $top: -41px);
     }
   }
@@ -154,10 +154,10 @@
       box-shadow: none;
     }
     .icon-answer-o {
-      @include bgWH($url: '/assets/images/icon/icon-answer-o.png', $w: 150px, $h: 150px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-answer-o.png', $w: 150px, $h: 150px);
     }
     .icon-answer-x {
-      @include bgWH($url: '/assets/images/icon/icon-answer-x.png', $w: 150px, $h: 150px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-answer-x.png', $w: 150px, $h: 150px);
     }
   }
 }

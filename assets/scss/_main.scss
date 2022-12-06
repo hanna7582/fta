@@ -73,7 +73,7 @@
                         line-height: 1;
                     }
                     span {
-                        @include bg($url: '/assets/images/icon/icon-main-visual-arrow.png', $position: left center, $size: 17px 7px);
+                        @include bg($url: '/fta/assets/images/icon/icon-main-visual-arrow.png', $position: left center, $size: 17px 7px);
                         display: block;
                         padding: 0 0 0 25px;
                         margin-top: 15px;
@@ -105,14 +105,14 @@
         .swiper-btn-prev, 
         .swiper-btn-next {
             @include positionYCenter;
-            @include bgWH($url: '/assets/images/icon/icon-main-visual-prev.png', $w: 12px, $h: 16px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-main-visual-prev.png', $w: 12px, $h: 16px);
         }
         .swiper-btn-prev {
             left: 10px;
         }
         .swiper-btn-next {
             right: 10px;
-            background-image: url('/assets/images/icon/icon-main-visual-next.png');
+            background-image: url('/fta/assets/images/icon/icon-main-visual-next.png');
         }
         .swiper-pagination {
             left: -10px;
@@ -129,10 +129,10 @@
         }
         .btn-control {
             @include positionYCenter;
-            @include bgWH($url: '/assets/images/icon/icon-main-visual-pause.png', $w: 14px, $h: 15px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-main-visual-pause.png', $w: 14px, $h: 15px);
             right: 32px;
             &.icon-play {
-                background-image: url('/assets/images/icon/icon-main-visual-play.png');
+                background-image: url('/fta/assets/images/icon/icon-main-visual-play.png');
             }
             span{
                 font-size: 24px;
@@ -164,16 +164,16 @@
                 }
             }
             &:nth-child(1) a::before {
-                @include bgWH($url: '/assets/images/icon/icon-quick-menu1.png', $w: 41px, $h: 39px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quick-menu1.png', $w: 41px, $h: 39px);
             }
             &:nth-child(2) a::before {
-                @include bgWH($url: '/assets/images/icon/icon-quick-menu2.png', $w: 30px, $h: 37px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quick-menu2.png', $w: 30px, $h: 37px);
             }
             &:nth-child(3) a::before {
-                @include bgWH($url: '/assets/images/icon/icon-quick-menu3.png', $w: 39px, $h: 36px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quick-menu3.png', $w: 39px, $h: 36px);
             }
             &:nth-child(4) a::before {
-                @include bgWH($url: '/assets/images/icon/icon-quick-menu4.png', $w: 34px, $h: 34px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quick-menu4.png', $w: 34px, $h: 34px);
             }
         }
     }
@@ -265,7 +265,7 @@
         }
         .icon-more {
             @include position($right: 17px, $top: 25px);
-            @include bgWH($url: '/assets/images/icon/icon-main-information-more.png', $w: 34px, $h: 22px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-main-information-more.png', $w: 34px, $h: 22px);
         }
     }
     .notice {
@@ -320,34 +320,34 @@
                 }
                 &:nth-child(1) a {
                     &::before {
-                        @include bgWH($url: '/assets/images/icon/icon-info-fta1.png', $w: 35px, $h: 42px);
+                        @include bgWH($url: '/fta/assets/images/icon/icon-info-fta1.png', $w: 35px, $h: 42px);
                     }
                     &:hover::before {
-                        background-image: url('/assets/images/icon/icon-info-fta1-hover.png');
+                        background-image: url('/fta/assets/images/icon/icon-info-fta1-hover.png');
                     }
                 }
                 &:nth-child(2) a {
                     &::before {
-                        @include bgWH($url: '/assets/images/icon/icon-info-fta2.png', $w: 33px, $h: 42px);
+                        @include bgWH($url: '/fta/assets/images/icon/icon-info-fta2.png', $w: 33px, $h: 42px);
                     }
                     &:hover::before {
-                        background-image: url('/assets/images/icon/icon-info-fta2-hover.png');
+                        background-image: url('/fta/assets/images/icon/icon-info-fta2-hover.png');
                     }
                 }
                 &:nth-child(3) a {
                     &::before {
-                        @include bgWH($url: '/assets/images/icon/icon-info-fta3.png', $w: 43px, $h: 35px);
+                        @include bgWH($url: '/fta/assets/images/icon/icon-info-fta3.png', $w: 43px, $h: 35px);
                     }
                     &:hover::before {
-                        background-image: url('/assets/images/icon/icon-info-fta3-hover.png');
+                        background-image: url('/fta/assets/images/icon/icon-info-fta3-hover.png');
                     }
                 }
                 &:nth-child(4) a {
                     &::before {
-                        @include bgWH($url: '/assets/images/icon/icon-info-fta4.png', $w: 41px, $h: 41px);
+                        @include bgWH($url: '/fta/assets/images/icon/icon-info-fta4.png', $w: 41px, $h: 41px);
                     }
                     &:hover::before {
-                        background-image: url('/assets/images/icon/icon-info-fta4-hover.png');
+                        background-image: url('/fta/assets/images/icon/icon-info-fta4-hover.png');
                     }
                 }
             }
@@ -407,20 +407,20 @@
             @include position($top: 27px, $right: 15px);
             @include flex-y;
             .btn-control {
-                @include bgWH($url: '/assets/images/icon/icon-news-letter-pause.png', $w: 13px, $h: 14px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-news-letter-pause.png', $w: 13px, $h: 14px);
                 margin-right: 5px;
                 &.icon-play {
-                    background-image: url('/assets/images/icon/icon-news-letter-play.png');
+                    background-image: url('/fta/assets/images/icon/icon-news-letter-play.png');
                 }
             }
             .swiper-btn-prev, 
             .swiper-btn-next {
-                @include bgWH($url: '/assets/images/icon/icon-news-letter-prev.png', $w: 30px, $h: 24px, $position: center, $size: 12px 16px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-news-letter-prev.png', $w: 30px, $h: 24px, $position: center, $size: 12px 16px);
                 position: relative;
             }
             .swiper-btn-next {
                 order: 1;
-                background-image: url('/assets/images/icon/icon-news-letter-next.png');
+                background-image: url('/fta/assets/images/icon/icon-news-letter-next.png');
             }
             .swiper-button-disabled {
                 opacity: 0.5;
@@ -438,7 +438,7 @@
 
 /* main-consulting */
 .main-consulting {
-    @include bg($url: '/assets/images/main/bg-consulting.png', $position: center);
+    @include bg($url: '/fta/assets/images/main/bg-consulting.png', $position: center);
     height: 1040px;
     background-size: cover;
     .container {
@@ -476,17 +476,17 @@
         }
         &:nth-child(1) .card-box-header::after {
             @include position($right: 20px, $top: 24px);
-            @include bgWH($url: '/assets/images/icon/icon-consulting1.png', $w: 75px, $h: 58px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-consulting1.png', $w: 75px, $h: 58px);
             content: '';
         }
         &:nth-child(2) .card-box-header::after {
             @include position($right: 20px, $top: 27px);
-            @include bgWH($url: '/assets/images/icon/icon-consulting2.png', $w: 83px, $h: 52px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-consulting2.png', $w: 83px, $h: 52px);
             content: '';
         }
         &:nth-child(3) .card-box-header::after {
             @include position($right: 28px, $top: 28px);
-            @include bgWH($url: '/assets/images/icon/icon-consulting3.png', $w: 47px, $h: 59px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-consulting3.png', $w: 47px, $h: 59px);
             content: '';
         }
         &-body {
@@ -542,7 +542,7 @@
                 font-weight: 500;
                 letter-spacing: -1.2px;
                 &::before {
-                    @include bgWH($url: '/assets/images/icon/icon-main-consulting.png', $w: 36px, $h: 33px);
+                    @include bgWH($url: '/fta/assets/images/icon/icon-main-consulting.png', $w: 36px, $h: 33px);
                     content: '';
                     margin-right: 15px;
                 }
@@ -656,14 +656,14 @@
         }
         .icon-more {
             @include position($right: 0, $top: 25px);
-            @include bgWH($url: '/assets/images/icon/icon-main-video-more.png', $w: 34px, $h: 22px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-main-video-more.png', $w: 34px, $h: 22px);
         }
     }
 }
 
 /* main-publication */
 .main-publication {
-    @include bg($url: '/assets/images/main/bg-main-publication.png', $position: center);
+    @include bg($url: '/fta/assets/images/main/bg-main-publication.png', $position: center);
     height: 980px;
     background-size: cover;
     .container {
@@ -791,13 +791,13 @@
             background-color: rgba(0, 0, 0, .5);
             box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.5);
             &:nth-child(1) {
-            @include bg($url: '/assets/images/main/main-consulting1.png')
+            @include bg($url: '/fta/assets/images/main/main-consulting1.png')
             }
             &:nth-child(2) {
-                @include bg($url: '/assets/images/main/main-consulting2.png')
+                @include bg($url: '/fta/assets/images/main/main-consulting2.png')
             }
             &:nth-child(3) {
-                @include bg($url: '/assets/images/main/main-consulting3.png') 
+                @include bg($url: '/fta/assets/images/main/main-consulting3.png') 
             }
             .card-box-header {
                 border-bottom-color: white;
@@ -817,7 +817,7 @@
             }
             .card-box-footer {
                 button {
-                    @include bg($url: '/assets/images/icon/icon-main-consulting-arrow.png', $position: 90px 20px, $size: 28px 11px);
+                    @include bg($url: '/fta/assets/images/icon/icon-main-consulting-arrow.png', $position: 90px 20px, $size: 28px 11px);
                     background-color: #0097d7;
                     color: white;
                 }
@@ -901,14 +901,14 @@
                 .swiper-btn-prev, 
                 .swiper-btn-next {
                     @include positionYCenter;
-                    @include bgWH($url: '/assets/images/icon/icon-main-visual-inner-prev.png', $w: 17px, $h: 26px);
+                    @include bgWH($url: '/fta/assets/images/icon/icon-main-visual-inner-prev.png', $w: 17px, $h: 26px);
                 }
                 .swiper-btn-prev {
                     left: -35px;
                 }
                 .swiper-btn-next {
                     right: -35px;
-                    background-image: url('/assets/images/icon/icon-main-visual-inner-next.png');
+                    background-image: url('/fta/assets/images/icon/icon-main-visual-inner-next.png');
                 }
             }
         }
@@ -1211,7 +1211,7 @@
 
     /* main-publication */
     .main-publication {
-        @include bg($url: '/assets/images/main/bg-main-publication.png', $position: center);
+        @include bg($url: '/fta/assets/images/main/bg-main-publication.png', $position: center);
         height: 650px;
         background-size: cover;
         .container {
@@ -1373,16 +1373,16 @@
                     }
                 }
                 &:nth-child(1) a::before {
-                    @include bgWH($url: '/assets/images/mo/icon/icon-quick-menu1.png', $w: 32px, $h: 32px);
+                    @include bgWH($url: '/fta/assets/images/mo/icon/icon-quick-menu1.png', $w: 32px, $h: 32px);
                 }
                 &:nth-child(2) a::before {
-                    @include bgWH($url: '/assets/images/mo/icon/icon-quick-menu2.png', $w: 32px, $h: 32px);
+                    @include bgWH($url: '/fta/assets/images/mo/icon/icon-quick-menu2.png', $w: 32px, $h: 32px);
                 }
                 &:nth-child(3) a::before {
-                    @include bgWH($url: '/assets/images/mo/icon/icon-quick-menu3.png', $w: 32px, $h: 32px);
+                    @include bgWH($url: '/fta/assets/images/mo/icon/icon-quick-menu3.png', $w: 32px, $h: 32px);
                 }
                 &:nth-child(4) a::before {
-                    @include bgWH($url: '/assets/images/mo/icon/icon-quick-menu4.png', $w: 32px, $h: 32px);
+                    @include bgWH($url: '/fta/assets/images/mo/icon/icon-quick-menu4.png', $w: 32px, $h: 32px);
                 }
             }
         }
@@ -1447,7 +1447,7 @@
     /* main-publication */
     .main-publication {
         height: auto;
-        background-image: url('/assets/images/mo/main/bg-main-publication.png');
+        background-image: url('/fta/assets/images/mo/main/bg-main-publication.png');
         background-size: contain;
         background-position-x: 50px;
         .container {

@@ -15,12 +15,12 @@
         color: white;
     }
 }
-.support .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual1.png', $position: center bottom, $size: cover); }
-.info .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual2.png', $position: center bottom, $size: cover); }
-.usage .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual3.png', $position: center bottom, $size: cover); }
-.intro .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual4.png', $position: center bottom, $size: cover); }
-.mypage .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual5.png', $position: center bottom, $size: cover); }
-.search .sub-visual { @include bg($url: '/assets/images/sub/bg-sub-visual6.png', $position: center bottom, $size: cover); }
+.support .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual1.png', $position: center bottom, $size: cover); }
+.info .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual2.png', $position: center bottom, $size: cover); }
+.usage .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual3.png', $position: center bottom, $size: cover); }
+.intro .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual4.png', $position: center bottom, $size: cover); }
+.mypage .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual5.png', $position: center bottom, $size: cover); }
+.search .sub-visual { @include bg($url: '/fta/assets/images/sub/bg-sub-visual6.png', $position: center bottom, $size: cover); }
 
 /* sub-container */
 .sub-container {
@@ -60,10 +60,10 @@
                 letter-spacing: -0.96px;
                 color: #333333;
                 &.arrow {
-                    @include bg($url: '/assets/images/icon/icon-sub-nav-down.png', $position: right 15px center, $size: 16px 10px );
+                    @include bg($url: '/fta/assets/images/icon/icon-sub-nav-down.png', $position: right 15px center, $size: 16px 10px );
                 }
                 &.active.arrow {
-                    background-image: url('/assets/images/icon/icon-sub-nav-up.png'); 
+                    background-image: url('/fta/assets/images/icon/icon-sub-nav-up.png'); 
                 }
                 &.active,
                 &:hover {
@@ -87,7 +87,7 @@
                 letter-spacing: -0.84px;
                 color: #666666;
                 &.active {
-                    @include bg($url: '/assets/images/icon/icon-sub-nav-active.png', $position: 10px center, $size: 18px 5px);
+                    @include bg($url: '/fta/assets/images/icon/icon-sub-nav-active.png', $position: 10px center, $size: 18px 5px);
                     padding-left: 33px;
                     background-color: $standard;
                     color: white !important;
@@ -138,7 +138,7 @@
             @include position($right:0, $bottom: 10px);
             width: 30px; 
             height: 29px; 
-            background: url('/assets/images/icon/icon_navsearch.png') no-repeat center / 30px 29px;
+            background: url('/fta/assets/images/icon/icon_navsearch.png') no-repeat center / 30px 29px;
         }
     }
     .relation-word {
@@ -364,7 +364,7 @@
                     dt {
                         margin-bottom: 10px;
                         .link {
-                            @include bg($url: '/assets/images/icon/icon-outlink.png', $position: right top 2px, $size: 16px 16px);
+                            @include bg($url: '/fta/assets/images/icon/icon-outlink.png', $position: right top 2px, $size: 16px 16px);
                             display: inline-block;
                             padding-right: 26px;
                             font-size: 18px;
@@ -373,7 +373,7 @@
                             color: #333333;
                             &:hover {
                                 color: $standard;
-                                background-image: url('/assets/images/icon/icon-outlink-on.png');
+                                background-image: url('/fta/assets/images/icon/icon-outlink-on.png');
                             }
                         }
                     }
@@ -435,10 +435,10 @@
                     letter-spacing: -0.43px;
                     color: #1e1e1e;
                     &.icon {
-                        @include bg($url: '/assets/images/icon/icon-plus.png', $position: right 20px center, $size: 20px 20px );
+                        @include bg($url: '/fta/assets/images/icon/icon-plus.png', $position: right 20px center, $size: 20px 20px );
                     }
                     &.active.icon {
-                        background-image: url('/assets/images/icon/icon-minus.png'); 
+                        background-image: url('/fta/assets/images/icon/icon-minus.png'); 
                     }
                     &.active,
                     &:hover {
@@ -619,13 +619,13 @@
     li {
         width: 33.33%;
         .consulting-visual-box {
-            @include bg($url: '/assets/images/sub/consulting-visual1.png', $position: center, $size: cover);
+            @include bg($url: '/fta/assets/images/sub/consulting-visual1.png', $position: center, $size: cover);
         }
         &:nth-child(2) .consulting-visual-box {
-            background-image: url('/assets/images/sub/consulting-visual2.png');
+            background-image: url('/fta/assets/images/sub/consulting-visual2.png');
         }
         &:nth-child(3) .consulting-visual-box {
-            background-image: url('/assets/images/sub/consulting-visual3.png');
+            background-image: url('/fta/assets/images/sub/consulting-visual3.png');
         }
         &:last-child .consulting-visual-content {
             border-right: 0;
@@ -652,7 +652,7 @@
             color: #efefef;
         }
         .link {
-            @include bg($url: '/assets/images/icon/icon-consulting-visual-arrow.png', $position: right center, $size: 8px 12px);
+            @include bg($url: '/fta/assets/images/icon/icon-consulting-visual-arrow.png', $position: right center, $size: 8px 12px);
             display: inline-block;
             padding-right: 13px;
             font-size: 14px;
@@ -697,7 +697,7 @@
                 .btn-group {
                     margin-top: 15px;
                     .btn-line {
-                        @include bg($url: '/assets/images/icon/icon-consulting-visual-arrow2.png', $position: right 10px center, $size: 8px 13px);
+                        @include bg($url: '/fta/assets/images/icon/icon-consulting-visual-arrow2.png', $position: right 10px center, $size: 8px 13px);
                         height: 25px;
                         line-height: 23px;
                         margin-right: 5px;
@@ -725,12 +725,12 @@
             letter-spacing: -1.05px;
             color: #333333;
             &::before {
-                @include bgWH($url: '/assets/images/icon/icon-quotes-start.png', $w: 21px, $h: 19px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quotes-start.png', $w: 21px, $h: 19px);
                 @include position($left:-41px, $top: 0);
                 content: '';
             }
             &::after {
-                @include bgWH($url: '/assets/images/icon/icon-quotes-end.png', $w: 21px, $h: 19px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-quotes-end.png', $w: 21px, $h: 19px);
                 content: '';
             }
             strong {
@@ -906,7 +906,7 @@
                 color: #333333;
             }
             &::after {
-                @include bgWH($url: '/assets/images/icon/icon-step-box-arrow.png', $w: 14px, $h: 24px, $position: center);
+                @include bgWH($url: '/fta/assets/images/icon/icon-step-box-arrow.png', $w: 14px, $h: 24px, $position: center);
                 @include positionYCenter;
                 right: -32px;
                 content: '';
@@ -935,10 +935,10 @@
             padding: 40px 0 40px 140px;
             border-radius: 8px;
             background-color: #fff;
-            &:nth-child(1) { @include bgWH($url: '/assets/images/icon/icon-main-business1.png', $w: 525px, $position: left 20px top 40px, $size: 103px 79px) }
-            &:nth-child(2) { @include bgWH($url: '/assets/images/icon/icon-main-business2.png', $w: 525px, $position: left 25px top 40px, $size: 84px 70px) }
-            &:nth-child(3) { @include bgWH($url: '/assets/images/icon/icon-main-business3.png', $w: 525px, $position: left 40px top 40px, $size: 74px 64px) }
-            &:nth-child(4) { @include bgWH($url: '/assets/images/icon/icon-main-business4.png', $w: 525px, $position: left 20px top 40px, $size: 95px 63px) }
+            &:nth-child(1) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business1.png', $w: 525px, $position: left 20px top 40px, $size: 103px 79px) }
+            &:nth-child(2) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business2.png', $w: 525px, $position: left 25px top 40px, $size: 84px 70px) }
+            &:nth-child(3) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business3.png', $w: 525px, $position: left 40px top 40px, $size: 74px 64px) }
+            &:nth-child(4) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business4.png', $w: 525px, $position: left 20px top 40px, $size: 95px 63px) }
             .title {
                 margin-bottom: 15px;
                 font-size: 24px;
@@ -957,7 +957,7 @@
         }
     }
     .call-box {
-        @include bg($url:'/assets/images/icon/icon-fta-total-center-call.png', $position: left 23px center, $size: 22px 22px);
+        @include bg($url:'/fta/assets/images/icon/icon-fta-total-center-call.png', $position: left 23px center, $size: 22px 22px);
         width: 220px;
         height: 50px;
         margin: 32px 0 15px;
@@ -1034,7 +1034,7 @@
                 dt {
                     margin-bottom: 25px;
                     .link {
-                        @include bg($url: '/assets/images/icon/icon-outlink.png', $position: right top 2px, $size: 16px 16px);
+                        @include bg($url: '/fta/assets/images/icon/icon-outlink.png', $position: right top 2px, $size: 16px 16px);
                         display: inline-block;
                         padding-right: 26px;
                         font-size: 20px;
@@ -1043,7 +1043,7 @@
                         color: #333333;
                         &:hover {
                             color: $standard;
-                            background-image: url('/assets/images/icon/icon-outlink-on.png');
+                            background-image: url('/fta/assets/images/icon/icon-outlink-on.png');
                         }
                     }
                 }
@@ -1127,7 +1127,7 @@
         @include flex-wrap;
         margin-right: -18px;
         .link-box {
-            @include bgWH($url: '/assets/images/icon/icon-link-plus.png', $position: center bottom 20px, $size: 18px 18px);
+            @include bgWH($url: '/fta/assets/images/icon/icon-link-plus.png', $position: center bottom 20px, $size: 18px 18px);
             width: calc(25% - 18px);
             margin: 0 18px 18px 0;
             background-color: #f9f9f9;
@@ -1346,10 +1346,10 @@
             display: flex;
             margin-bottom: 30px;
             .btn-usage-process-menu {
-                @include bgWH($url: '/assets/images/icon/icon-usage-process-open.png', $w: 40px, $h: 40px);
+                @include bgWH($url: '/fta/assets/images/icon/icon-usage-process-open.png', $w: 40px, $h: 40px);
                 flex: none;
                 &.close {
-                    background-image: url('/assets/images/icon/icon-usage-process-close.png')
+                    background-image: url('/fta/assets/images/icon/icon-usage-process-close.png')
                 }
             }
             .fta-call {
@@ -1649,10 +1649,10 @@
             margin-right: 0;
             &-box {
                 margin-right: 0;
-                &:nth-child(1) { @include bgWH($url: '/assets/images/icon/icon-main-business1.png', $w: 100%, $position: left 20px top 40px, $size: 103px 79px) }
-                &:nth-child(2) { @include bgWH($url: '/assets/images/icon/icon-main-business2.png', $w: 100%, $position: left 25px top 40px, $size: 84px 70px) }
-                &:nth-child(3) { @include bgWH($url: '/assets/images/icon/icon-main-business3.png', $w: 100%, $position: left 40px top 40px, $size: 74px 64px) }
-                &:nth-child(4) { @include bgWH($url: '/assets/images/icon/icon-main-business4.png', $w: 100%, $position: left 20px top 40px, $size: 95px 63px) }
+                &:nth-child(1) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business1.png', $w: 100%, $position: left 20px top 40px, $size: 103px 79px) }
+                &:nth-child(2) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business2.png', $w: 100%, $position: left 25px top 40px, $size: 84px 70px) }
+                &:nth-child(3) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business3.png', $w: 100%, $position: left 40px top 40px, $size: 74px 64px) }
+                &:nth-child(4) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business4.png', $w: 100%, $position: left 20px top 40px, $size: 95px 63px) }
             }
         }
         .operating-agency {
@@ -1724,12 +1724,12 @@
             letter-spacing: -0.65px;
         }
     }
-    .support .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual1.png'); }
-    .info .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual2.png'); }
-    .usage .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual3.png'); }
-    .intro .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual4.png'); }
-    .mypage .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual5.png'); }
-    .search .sub-visual { background-image: url('/assets/images/mo/sub/bg-sub-visual6.png'); }
+    .support .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual1.png'); }
+    .info .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual2.png'); }
+    .usage .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual3.png'); }
+    .intro .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual4.png'); }
+    .mypage .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual5.png'); }
+    .search .sub-visual { background-image: url('/fta/assets/images/mo/sub/bg-sub-visual6.png'); }
 
     .sub-container {
         .container {
@@ -1862,13 +1862,13 @@
         li {
             display: block;
             &:nth-child(1) .consulting-visual-box {
-                background-image: url('/assets/images/mo/sub/consulting-visual1.png');
+                background-image: url('/fta/assets/images/mo/sub/consulting-visual1.png');
             }
             &:nth-child(2) .consulting-visual-box {
-                background-image: url('/assets/images/mo/sub/consulting-visual2.png');
+                background-image: url('/fta/assets/images/mo/sub/consulting-visual2.png');
             }
             &:nth-child(3) .consulting-visual-box {
-                background-image: url('/assets/images/mo/sub/consulting-visual3.png');
+                background-image: url('/fta/assets/images/mo/sub/consulting-visual3.png');
             }
         }
         &-box {
@@ -1930,10 +1930,10 @@
                 @include border( $color:#e3e4e5 );
                 margin: 0 0 18px 0;
                 padding: 110px 15px 20px;
-                &:nth-child(1) { @include bgWH($url: '/assets/images/icon/icon-main-business1.png', $w: 525px, $position: center top 20px, $size: 103px 79px) }
-                &:nth-child(2) { @include bgWH($url: '/assets/images/icon/icon-main-business2.png', $w: 525px, $position: center top 20px, $size: 84px 70px) }
-                &:nth-child(3) { @include bgWH($url: '/assets/images/icon/icon-main-business3.png', $w: 525px, $position: center top 20px, $size: 74px 64px) }
-                &:nth-child(4) { @include bgWH($url: '/assets/images/icon/icon-main-business4.png', $w: 525px, $position: center top 20px, $size: 95px 63px) }
+                &:nth-child(1) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business1.png', $w: 525px, $position: center top 20px, $size: 103px 79px) }
+                &:nth-child(2) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business2.png', $w: 525px, $position: center top 20px, $size: 84px 70px) }
+                &:nth-child(3) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business3.png', $w: 525px, $position: center top 20px, $size: 74px 64px) }
+                &:nth-child(4) { @include bgWH($url: '/fta/assets/images/icon/icon-main-business4.png', $w: 525px, $position: center top 20px, $size: 95px 63px) }
                 .title {
                     margin-bottom: 15px;
                     font-size: 20px;
@@ -2065,7 +2065,7 @@
     .site_list_toggle {display: block; border-top:1px solid #5f5f5f;}
     .site_list_toggle > li {border-bottom:1px solid #e1e1e1;}
     .site_list_toggle button {position:relative; width:100%; padding:15px;}
-    .site_list_toggle button:after {position:absolute; top:50%; right:11px; width:22px; height:22px; margin-top:-11px; background: url('/assets/images/mo/icon/icon_site_list_arr.png') no-repeat center; background-size:contain; content: "";}
+    .site_list_toggle button:after {position:absolute; top:50%; right:11px; width:22px; height:22px; margin-top:-11px; background: url('/fta/assets/images/mo/icon/icon_site_list_arr.png') no-repeat center; background-size:contain; content: "";}
     .site_list_toggle button img {display:block; height:24px;}
     .site_list_toggle div {display:none;}
     .site_list_toggle table {margin-bottom:-1px; border-top:1px solid #e1e1e1; border-collapse: revert; table-layout:fixed; }

@@ -14,7 +14,7 @@
   }
   .btn-close {
     @include position($top: 17px, $right: 17px);
-    @include bgWH($url: '/assets/images/btn-close.png', $width: 24px, $height: 24px);
+    @include bgWH($url: '/fta/assets/images/btn-close.png', $width: 24px, $height: 24px);
   }
   &-header {
     @extend %flex-center;

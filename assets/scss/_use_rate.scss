@@ -8,20 +8,20 @@
 .main-use-rate-box span { font-size: 17px;  letter-spacing: -1.02px; color: #fff; }
 .main-use-rate-box button { @include positionYCenter; right:0; font-size: 17px; line-height: 1;  letter-spacing: -1.02px; color: #fff;
     padding-right: 35px;
-    background: url('/assets/images/icon/icon-main-use-rate-down.png') no-repeat right center/19px 13px; 
+    background: url('/fta/assets/images/icon/icon-main-use-rate-down.png') no-repeat right center/19px 13px; 
 }
 
-.main-use-rate-box.active button { background-image: url('/assets/images/icon/icon-main-use-rate-up.png'); }
+.main-use-rate-box.active button { background-image: url('/fta/assets/images/icon/icon-main-use-rate-up.png'); }
 
 /* pc */
-.map_guide { display: none; height: 736px; padding: 65px 0 56px; width: 100%; background: url('/assets/images/main/main_map_bg.jpeg') no-repeat center / cover; color: #fff; box-sizing: border-box; }
+.map_guide { display: none; height: 736px; padding: 65px 0 56px; width: 100%; background: url('/fta/assets/images/main/main_map_bg.jpeg') no-repeat center / cover; color: #fff; box-sizing: border-box; }
 .map_guide button { color: #fff; }
 .map_guide .con_box { position: relative; height: 100%; }
 .map_guide .map_btnbox { position: absolute; left: 0; bottom: 0; }
 .map_guide .map_btnbox button { float: left; width: 178px; height: 48px; font-size: 17px; line-height: 48px; border: 1px solid #fff; }
 .map_guide .map_btnbox button.active { background: #fff; color: #333; font-weight: 500; }
 
-.map_guide .map_container { background: url('/assets/images/main/img_map.png') no-repeat center top 0 / 1168px 527px; }
+.map_guide .map_container { background: url('/fta/assets/images/main/img_map.png') no-repeat center top 0 / 1168px 527px; }
 
 .map_guide .graph_box,
 .map_guide .map_box { position: relative; height: 527px; display: none; }
@@ -58,7 +58,7 @@
 .map_guide .map_box .peru { right: 213px; bottom: 182px; }
 .map_guide .map_box .chile { right: 66px; bottom: 127px; }
 
-.map_guide .map_txt { position: absolute; right: 0; bottom: 0; padding: 40px 0 32px; width: 437px; background: url('/assets/images/main/img_bg.png') no-repeat right 0 center / 368px; font-size: 40px; }
+.map_guide .map_txt { position: absolute; right: 0; bottom: 0; padding: 40px 0 32px; width: 437px; background: url('/fta/assets/images/main/img_bg.png') no-repeat right 0 center / 368px; font-size: 40px; }
 .map_guide .map_txt span { display: block; color: #fff; }
 .map_guide .map_txt .f_bold { font-weight: bold; }
 .map_guide .map_txt:after { content: ""; display: block; margin-top: 28px; width: 200px; height: 2px; background: #fff; }

@@ -213,60 +213,60 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
 
 // icon ======================================================================================
 .icon-top-notice {
-  @include bgWH($url: '/assets/images/icon/icon-top-notice.png', $w: 27px, $h: 17px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-top-notice.png', $w: 27px, $h: 17px);
 }
 .icon-top-notice-pause {
-  @include bgWH($url: '/assets/images/icon/icon-top-notice-pause.png', $w: 14px, $h: 16px, $position: center);
+  @include bgWH($url: '/fta/assets/images/icon/icon-top-notice-pause.png', $w: 14px, $h: 16px, $position: center);
 }
 .icon-top-notice-play {
-  @include bgWH($url: '/assets/images/icon/icon-top-notice-play.png', $w: 14px, $h: 16px, $position: center);
+  @include bgWH($url: '/fta/assets/images/icon/icon-top-notice-play.png', $w: 14px, $h: 16px, $position: center);
 }
 .icon-top-notice-close, .icon-close {
-  @include bgWH($url: '/assets/images/icon/icon-top-notice-close.png', $w: 17px, $h: 17px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-top-notice-close.png', $w: 17px, $h: 17px);
 }
 .icon-login {
-  @include bgWH($url: '/assets/images/icon/icon-login.png', $w: 22px, $h: 22px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-login.png', $w: 22px, $h: 22px);
 }
 .icon-logout {
-  @include bgWH($url: '/assets/images/icon/icon-logout.png', $w: 22px, $h: 22px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-logout.png', $w: 22px, $h: 22px);
 }
 .icon-search {
-  @include bgWH($url: '/assets/images/icon/icon-search.png', $w: 24px, $h: 24px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-search.png', $w: 24px, $h: 24px);
 }
 .icon-menu {
-  @include bgWH($url: '/assets/images/icon/icon-menu.png', $w: 24px, $h: 24px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-menu.png', $w: 24px, $h: 24px);
 }
 .icon-sound {
-  @include bgWH($url: '/assets/images/icon/icon-sound.png', $w: 20px, $h: 20px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-sound.png', $w: 20px, $h: 20px);
 }
 .icon-file {
-  @include bgWH($url: '/assets/images/icon/icon-file.png', $w: 18px, $h: 17px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-file.png', $w: 18px, $h: 17px);
 }
 .icon-lock {
-  @include bgWH($url: '/assets/images/icon/icon-lock.png', $w: 18px, $h: 17px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-lock.png', $w: 18px, $h: 17px);
 }
 .icon-image {
-  @include bgWH($url: '/assets/images/icon/png.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/png.gif', $w: 16px, $h: 16px);
 }
 .icon-pdf {
-  @include bgWH($url: '/assets/images/icon/pdf.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/pdf.gif', $w: 16px, $h: 16px);
 }
 .icon-zip {
-  @include bgWH($url: '/assets/images/icon/zip.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/zip.gif', $w: 16px, $h: 16px);
 }
 .icon-pptx {
-  @include bgWH($url: '/assets/images/icon/pptx.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/pptx.gif', $w: 16px, $h: 16px);
 }
 .icon-docx {
-  @include bgWH($url: '/assets/images/icon/docx.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/docx.gif', $w: 16px, $h: 16px);
 }
 .icon-xlsx {
-  @include bgWH($url: '/assets/images/icon/xlsx.gif', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/xlsx.gif', $w: 16px, $h: 16px);
 }
 .icon-out-link {
-  @include bgWH($url: '/assets/images/icon/icon-outlink.png', $w: 16px, $h: 16px);
+  @include bgWH($url: '/fta/assets/images/icon/icon-outlink.png', $w: 16px, $h: 16px);
   &:hover {
-    @include bgWH($url: '/assets/images/icon/icon-outlink-on.png', $w: 16px, $h: 16px);
+    @include bgWH($url: '/fta/assets/images/icon/icon-outlink-on.png', $w: 16px, $h: 16px);
   }
 }
 
@@ -331,11 +331,11 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
       letter-spacing: -0.84px;
     }
     .btn-refresh {
-      @include bgWH($url: '/assets/images/icon/icon-refresh.png', $w: 40px, $h: 40px, $position: center, $size: 15px 18px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-refresh.png', $w: 40px, $h: 40px, $position: center, $size: 15px 18px);
       background-color: #636e81;
     }
     .btn-search {
-      @include bgWH($url: '/assets/images/icon/icon-form-search.png', $w: 70px, $h: 40px, $position: 13px center, $size: 18px 18px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-form-search.png', $w: 70px, $h: 40px, $position: 13px center, $size: 18px 18px);
       padding-left: 34px;
       text-align: left;
       background-color: $standard;
@@ -366,11 +366,11 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   background-color: #f1f1f1;
 }
 .select-box {
-  @include bg($url: '/assets/images/icon/icon-select-arrow.png', $position: right 10px center, $size: 12px 8px);
+  @include bg($url: '/fta/assets/images/icon/icon-select-arrow.png', $position: right 10px center, $size: 12px 8px);
   position: relative;
   padding: 0 30px 0 10px;
   &:focus {
-    background-image: url('/assets/images/icon/icon-select-arrow-up.png');
+    background-image: url('/fta/assets/images/icon/icon-select-arrow-up.png');
   }
 }
 
@@ -392,11 +392,11 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     justify-content: center;
   }
   .icon-checkbox {
-    @include bgWH($url: '/assets/images/icon/icon-checkbox-off.png',  $w: 18px, $h: 18px);
+    @include bgWH($url: '/fta/assets/images/icon/icon-checkbox-off.png',  $w: 18px, $h: 18px);
     @extend %cursor-pointer;
   }
   .input-checkbox:checked + .icon-checkbox {
-    background-image: url('/assets/images/icon/icon-checkbox-on.png');
+    background-image: url('/fta/assets/images/icon/icon-checkbox-on.png');
   }
   span {
     margin-left: 8px;
@@ -412,11 +412,11 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     justify-content: center;
   }
   .icon-radio {
-    @include bgWH($url: '/assets/images/icon/icon-radio-off.png', $w: 16px, $h: 16px);
+    @include bgWH($url: '/fta/assets/images/icon/icon-radio-off.png', $w: 16px, $h: 16px);
     @extend %cursor-pointer;
   }
   .input-radio:checked + .icon-radio {
-    background-image: url('/assets/images/icon/icon-radio-on.png');
+    background-image: url('/fta/assets/images/icon/icon-radio-on.png');
   }
   > span {
     margin-left: 8px;
@@ -429,7 +429,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   @include flex-y;
   flex: 1;
   .input-text {
-    @include bg($url: '/assets/images/icon/icon-calendar.png', $position: right 10px center, $size: 24px 24px);
+    @include bg($url: '/fta/assets/images/icon/icon-calendar.png', $position: right 10px center, $size: 24px 24px);
     @extend %cursor-default;
     padding: 0 35px 0 10px;
   }
@@ -439,7 +439,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   @include flex-y;
   flex: 1;
   .input-text {
-    @include bg($url: '/assets/images/icon/icon-time.png', $position: right 10px center, $size: 24px 24px);
+    @include bg($url: '/fta/assets/images/icon/icon-time.png', $position: right 10px center, $size: 24px 24px);
     @extend %cursor-default;
     padding: 0 35px 0 10px;
   }
@@ -462,7 +462,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   // 파일
   &-file {
     @include btn($padding: 10px 20px 10px 48px, $radius: 4px, $bg: #f9f9f9, $color: #333333);
-    @include bg($url: '/assets/images/icon/icon-file.png', $position: 20px 11px, $size: 18px 17px);
+    @include bg($url: '/fta/assets/images/icon/icon-file.png', $position: 20px 11px, $size: 18px 17px);
     font-size: 13px;
     letter-spacing: -0.65px;
     text-align: left;
@@ -518,13 +518,13 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     @include flex;
     align-items: flex-start;
     .breadcrumb-item {
-      @include bg($url: '/assets/images/icon/icon-breadcrumb-arrow.png', $position: left 2px, $size: 7px 12px);
+      @include bg($url: '/fta/assets/images/icon/icon-breadcrumb-arrow.png', $position: left 2px, $size: 7px 12px);
       padding:0 10px 0 17px;
       font-size: 14px;
       letter-spacing: -0.84px;
       color: #666;
       &.home {
-        @include bgWH($url: '/assets/images/icon/icon-home.png', $w:15px, $h:15px);
+        @include bgWH($url: '/fta/assets/images/icon/icon-home.png', $w:15px, $h:15px);
       }
       &.active {
         font-weight: 500;
@@ -1014,39 +1014,39 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     text-align: center;
     color: #888888;
     &.first {
-      @include bg($url: '/assets/images/icon/icon-pagination-first.png', $position: center, $size: 15px 14px);
+      @include bg($url: '/fta/assets/images/icon/icon-pagination-first.png', $position: center, $size: 15px 14px);
       &.disabled {
-        background-image: url('/assets/images/icon/icon-pagination-first-off.png');
+        background-image: url('/fta/assets/images/icon/icon-pagination-first-off.png');
       }
       // &:hover {
-      //   background-image: url('/assets/images/icon/icon-pagination-first-hover.png');
+      //   background-image: url('/fta/assets/images/icon/icon-pagination-first-hover.png');
       // }
     }
     &.prev {
-      @include bg($url: '/assets/images/icon/icon-pagination-prev.png', $position: center, $size: 10px 14px);
+      @include bg($url: '/fta/assets/images/icon/icon-pagination-prev.png', $position: center, $size: 10px 14px);
       &.disabled {
-        background-image: url('/assets/images/icon/icon-pagination-prev-off.png');
+        background-image: url('/fta/assets/images/icon/icon-pagination-prev-off.png');
       }
       // &:hover {
-      //   background-image: url('/assets/images/icon/icon-pagination-prev-hover.png');
+      //   background-image: url('/fta/assets/images/icon/icon-pagination-prev-hover.png');
       // }
     }
     &.next {
-      @include bg($url: '/assets/images/icon/icon-pagination-next.png', $position: center, $size: 10px 14px);
+      @include bg($url: '/fta/assets/images/icon/icon-pagination-next.png', $position: center, $size: 10px 14px);
       &.disabled {
-        background-image: url('/assets/images/icon/icon-pagination-next-off.png');
+        background-image: url('/fta/assets/images/icon/icon-pagination-next-off.png');
       }
       // &:hover {
-      //   background-image: url('/assets/images/icon/icon-pagination-next-hover.png');
+      //   background-image: url('/fta/assets/images/icon/icon-pagination-next-hover.png');
       // }
     }
     &.last {
-      @include bg($url: '/assets/images/icon/icon-pagination-last.png', $position: center, $size: 15px 14px);
+      @include bg($url: '/fta/assets/images/icon/icon-pagination-last.png', $position: center, $size: 15px 14px);
       &.disabled {
-        background-image: url('/assets/images/icon/icon-pagination-last-off.png');
+        background-image: url('/fta/assets/images/icon/icon-pagination-last-off.png');
       }
       // &:hover {
-      //   background-image: url('/assets/images/icon/icon-pagination-last-hover.png');
+      //   background-image: url('/fta/assets/images/icon/icon-pagination-last-hover.png');
       // }
     }
     &.active,
@@ -1156,7 +1156,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
       color: #333333;
     }
     .answer-box {
-      @include bg($url: '/assets/images/icon/icon-answer-arrow.png', $position: left 30px top 42px, $size: 26px 26px);
+      @include bg($url: '/fta/assets/images/icon/icon-answer-arrow.png', $position: left 30px top 42px, $size: 26px 26px);
       margin: 30px 0 50px;
       padding: 40px 30px 40px 66px;
       background-color: #f9f9f9;
@@ -1188,10 +1188,10 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
         letter-spacing: -0.43px;
         color: #333333;
         &.prev { 
-          @include bg($url: '/assets/images/icon/icon-detail-prev.png', $position: right 25px center, $size: 12px 9px);
+          @include bg($url: '/fta/assets/images/icon/icon-detail-prev.png', $position: right 25px center, $size: 12px 9px);
         }
         &.next {
-          @include bg($url: '/assets/images/icon/icon-detail-next.png', $position: right 25px center, $size: 12px 9px);
+          @include bg($url: '/fta/assets/images/icon/icon-detail-next.png', $position: right 25px center, $size: 12px 9px);
         }
       }
       dd {
@@ -1530,10 +1530,10 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     }
     .checkbox {
       .icon-checkbox {
-        @include bgWH($url: '/assets/images/icon/icon-agree-checkbox-off.png', $w: 30px, $h: 30px);
+        @include bgWH($url: '/fta/assets/images/icon/icon-agree-checkbox-off.png', $w: 30px, $h: 30px);
       }
       .input-checkbox:checked + .icon-checkbox {
-        background-image: url('/assets/images/icon/icon-agree-checkbox-on.png');
+        background-image: url('/fta/assets/images/icon/icon-agree-checkbox-on.png');
       }
       .input-checkbox:checked ~ span{
         color: $standard;
@@ -1584,7 +1584,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
         }
       }
       &::after {
-        @include bgWH($url: '/assets/images/icon/icon-step-arrow.png', $w: 18px, $h: 28px, $position: center);
+        @include bgWH($url: '/fta/assets/images/icon/icon-step-arrow.png', $w: 18px, $h: 28px, $position: center);
         @include positionYCenter;
         right: -68px;
         content: '';
@@ -1610,7 +1610,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     background-color: #f2f2f2;
     color: #999999;
     &::after{
-      @include bgWH($url: '/assets/images/icon/icon-stage-arrow.png', $w: 7px, $h: 25px, $position: center);
+      @include bgWH($url: '/fta/assets/images/icon/icon-stage-arrow.png', $w: 7px, $h: 25px, $position: center);
       @include positionYCenter;
       right: -23px;
       content: '';
@@ -1717,7 +1717,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
         margin-bottom: 15px;
       }
       a {
-        @include bg($url: '/assets/images/icon/icon-view.png', $position: right center, $size: 17px 14px);
+        @include bg($url: '/fta/assets/images/icon/icon-view.png', $position: right center, $size: 17px 14px);
         @include text-overflow-1;
         padding: 0 20px 0 0;
         display: block;
@@ -1731,7 +1731,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     }
     .btn-close {
       @include position($right: 15px, $top: 15px);
-      @include bgWH($url: '/assets/images/icon/icon-popover-close.png', $w: 9px, $h: 9px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-popover-close.png', $w: 9px, $h: 9px);
     }
     &::before {
       @include positionXCenter;
@@ -1919,12 +1919,12 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   @include flex-y;
   @include border($color: $lightGray, $direction: bottom); 
   button {
-    @include bg($url: '/assets/images/icon/icon-accordion-down.png', $position: right 20px center, $size: 23px 13px);
+    @include bg($url: '/fta/assets/images/icon/icon-accordion-down.png', $position: right 20px center, $size: 23px 13px);
     width: 100%;
     padding: 26px 50px 26px 0;
     text-align: left;
     &.active {
-      background-image: url('/assets/images/icon/icon-accordion-up.png');
+      background-image: url('/fta/assets/images/icon/icon-accordion-up.png');
     }
   }
   .sub {
@@ -2006,7 +2006,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
     }
     .btn-play {
       @include positionCenter;
-      @include bgWH($url: '/assets/images/icon/icon-video-play.png', $w: 82px, $h: 82px);
+      @include bgWH($url: '/fta/assets/images/icon/icon-video-play.png', $w: 82px, $h: 82px);
     }
   }
   .text-box {
@@ -2088,19 +2088,19 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
         letter-spacing: -0.7px;
         color: #333333;
         &.map {
-          @include bg($url: '/assets/images/icon/icon-circle-map.png', $position: left top, $size: 24px 24px);
+          @include bg($url: '/fta/assets/images/icon/icon-circle-map.png', $position: left top, $size: 24px 24px);
           margin-bottom: 12px;
         }
         &.call {
-          @include bg($url: '/assets/images/icon/icon-circle-phone.png', $position: left top, $size: 24px 24px);
+          @include bg($url: '/fta/assets/images/icon/icon-circle-phone.png', $position: left top, $size: 24px 24px);
           margin-bottom: 12px;
         }
         &.mail {
-          @include bg($url: '/assets/images/icon/icon-circle-mail.png', $position: left top, $size: 24px 24px);
+          @include bg($url: '/fta/assets/images/icon/icon-circle-mail.png', $position: left top, $size: 24px 24px);
           margin-bottom: 12px;
         }
         &.homepage {
-          @include bg($url: '/assets/images/icon/icon-circle-home.png', $position: left top, $size: 24px 24px);
+          @include bg($url: '/fta/assets/images/icon/icon-circle-home.png', $position: left top, $size: 24px 24px);
           color: $standard;
           text-decoration: underline;
         }
@@ -2957,7 +2957,7 @@ $padding-sizes: 0, 10, 15, 20, 30, 40;
   .accordion {
     &-header {
       button {
-        @include bg($url: '/assets/images/icon/icon-accordion-down.png', $position: right center, $size: 16px 10px);
+        @include bg($url: '/fta/assets/images/icon/icon-accordion-down.png', $position: right center, $size: 16px 10px);
         padding: 10px 25px 10px 0;
       }
       .sub {

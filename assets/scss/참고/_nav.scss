@@ -101,7 +101,7 @@
           padding-left: 10px;
           color: white;
           &::after{
-            @include bgWH($url: '/assets/images/main/drop-arrow.png', $width: 8px, $height: 4px, $x: center, $y: right);
+            @include bgWH($url: '/fta/assets/images/main/drop-arrow.png', $width: 8px, $height: 4px, $x: center, $y: right);
             content: '';
           }
         }
@@ -131,13 +131,13 @@
         content: '';
       }
       li:nth-child(1)::before{
-        @include bgWH($url: '/assets/images/icon/icon-mypage.png', $width: 13px, $height: 13px);
+        @include bgWH($url: '/fta/assets/images/icon/icon-mypage.png', $width: 13px, $height: 13px);
       }
       li:nth-child(2)::before{
-        @include bgWH($url: '/assets/images/icon/icon-search-deli.png', $width: 13px, $height: 13px);
+        @include bgWH($url: '/fta/assets/images/icon/icon-search-deli.png', $width: 13px, $height: 13px);
       }
       li:nth-child(3)::before{
-        @include bgWH($url: '/assets/images/icon/icon-logout.png', $width: 11px, $height: 14px);
+        @include bgWH($url: '/fta/assets/images/icon/icon-logout.png', $width: 11px, $height: 14px);
       }
       a{
         letter-spacing: -0.1px;
