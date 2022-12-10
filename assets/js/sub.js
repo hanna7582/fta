@@ -176,13 +176,13 @@ $('.popover-area .btn-close').on('click', function () {
 $('.accordion button').on('click', function () {
   var state = $(this).attr('aria-expanded')
   $('.accordion button').removeClass().attr('aria-expanded', 'false')
-  $('.accordion .accordion-body').stop().slideUp()
+  $('.accordion .accordion-body').stop(true, true).slideUp()
   if (state === 'true') {
-    $(this).parent().next().stop().slideUp()
+    $(this).parent().next().slideUp()
     $(this).removeClass()
     $(this).attr('aria-expanded', 'false')
   } else {
-    $(this).parent().next().stop().slideDown()
+    $(this).parent().next().slideDown()
     $(this).addClass('active')
     $(this).attr('aria-expanded', 'true')
   }
